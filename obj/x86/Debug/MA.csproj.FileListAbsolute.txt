@@ -1,0 +1,72 @@
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\bin\Debug\MA.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\bin\Debug\MA.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form1.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form10.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form11.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form12.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form2.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form3.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form4.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form5.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form6.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form7.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form8.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form9.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Properties.Resources.resources
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.csproj.GenerateResource.Cache
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.exe
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\obj\x86\Debug\MA.pdb
+C:\Users\ACER\documents\visual studio 2010\Projects\MA\MA\bin\Debug\MA.exe.config
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\MA\MA\obj\x86\Debug\MA.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\MA\MA\obj\x86\Debug\MA.Form13.resources
+E:\MA\MA\bin\Debug\MA.exe.config
+E:\MA\MA\obj\x86\Debug\MA.exe
+E:\MA\MA\obj\x86\Debug\MA.pdb
+E:\MA\MA\obj\x86\Debug\MA.csprojResolveAssemblyReference.cache
+E:\MA\MA\obj\x86\Debug\MA.Form1.resources
+E:\MA\MA\obj\x86\Debug\MA.Form10.resources
+E:\MA\MA\obj\x86\Debug\MA.Form11.resources
+E:\MA\MA\obj\x86\Debug\MA.Form12.resources
+E:\MA\MA\obj\x86\Debug\MA.Form13.resources
+E:\MA\MA\obj\x86\Debug\MA.Form2.resources
+E:\MA\MA\obj\x86\Debug\MA.Form3.resources
+E:\MA\MA\obj\x86\Debug\MA.Form6.resources
+E:\MA\MA\obj\x86\Debug\MA.Form7.resources
+E:\MA\MA\obj\x86\Debug\MA.Form8.resources
+E:\MA\MA\obj\x86\Debug\MA.Form9.resources
+E:\MA\MA\obj\x86\Debug\MA.Properties.Resources.resources
+E:\MA\MA\obj\x86\Debug\MA.csproj.GenerateResource.Cache
+E:\MA\MA\bin\Debug\MA.exe
+E:\MA\MA\bin\Debug\MA.pdb
+E:\MA\MA\obj\x86\Debug\MA.Form4.resources
+E:\MA\MA\bin\Debug\MA.exe.manifest
+E:\MA\MA\bin\Debug\MA.application
+E:\MA\MA\obj\x86\Debug\MA.exe.manifest
+E:\MA\MA\obj\x86\Debug\MA.application
+J:\MA\MA\bin\Debug\MA.exe.config
+J:\MA\MA\obj\x86\Debug\MA.exe
+J:\MA\MA\obj\x86\Debug\MA.pdb
+E:\Documents\Edu\MA\MA\bin\Debug\MA.exe.config
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.exe
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.pdb
+E:\Documents\Edu\MA\MA\bin\Debug\MA.exe.manifest
+E:\Documents\Edu\MA\MA\bin\Debug\MA.application
+E:\Documents\Edu\MA\MA\bin\Debug\MA.exe
+E:\Documents\Edu\MA\MA\bin\Debug\MA.pdb
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.csprojResolveAssemblyReference.cache
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form1.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form10.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form11.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form12.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form13.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form2.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form3.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form4.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form6.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form7.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form8.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Form9.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.Properties.Resources.resources
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.csproj.GenerateResource.Cache
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.exe.manifest
+E:\Documents\Edu\MA\MA\obj\x86\Debug\MA.application
